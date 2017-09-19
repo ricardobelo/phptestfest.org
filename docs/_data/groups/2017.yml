@@ -320,3 +320,15 @@
   contacts:
     - name: Mark Niebergall
       email: mbniebergall@gmail.com
+      
+- name: PHP-PB
+  location: João Pessoa, Brazil
+  website: http://www.php-pb.net/
+  meetup: https://www.meetup.com/php-pb/
+  twitter: https://twitter.com/phppb
+  contacts:
+    - name: Abdala Cerqueira
+      email: abdala.cerqueira@gmail.com
+    - name: Ricardo Belo
+      email: contato@ricardobelo.com.br
+      
